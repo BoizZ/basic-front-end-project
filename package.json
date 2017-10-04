@@ -4,7 +4,7 @@
   "description": "What a front end project should be like",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
@@ -23,11 +23,13 @@
   },
   "homepage": "https://github.com/BoizZ/basic-front-end-project#readme",
   "devDependencies": {
+    "chai": "^4.1.2",
     "eslint": "^4.8.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.2.0",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
+    "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^4.0.0"
   }
 }
