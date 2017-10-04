@@ -1,0 +1,25 @@
+{
+  "name": "basic-front-end-project",
+  "version": "0.1.0",
+  "description": "What a front end project should be like",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoizZ/basic-front-end-project.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "eslint",
+    "testing"
+  ],
+  "author": "Heleth <bon.hoo@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoizZ/basic-front-end-project/issues"
+  },
+  "homepage": "https://github.com/BoizZ/basic-front-end-project#readme"
+}
