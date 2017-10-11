@@ -1,0 +1,1 @@
+![build](https://travis-ci.org/BoizZ/basic-front-end-project.svg?branch=master)
